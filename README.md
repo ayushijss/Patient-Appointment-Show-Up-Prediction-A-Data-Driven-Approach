@@ -7,6 +7,9 @@ The goal of this project is to predict whether a patient will show up for their 
 ### Technologies Used
 
 Python: The primary programming language used for data processing, analysis, and modeling.
+
 Pandas: For data manipulation and cleaning.
+
 Scikit-learn: For machine learning algorithms and evaluation.
+
 Matplotlib & Seaborn: For data visualization.
